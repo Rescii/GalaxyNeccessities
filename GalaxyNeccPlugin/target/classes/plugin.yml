@@ -1,5 +1,5 @@
-main: com.rescapi.github.Rescii
-name: Neccessities
+main: com.rescapi.github.Rescii.GalaxyNecessities
+name: GalaxyNeccPlugin
 version: 1.0
 description: Plugin that Galaxy requires for most features to work.
 author: Resci
