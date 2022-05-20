@@ -1,6 +1,6 @@
-package com.github.Rescii.events;
+package com.rescapi.github.Rescii.events;
 
-import com.github.Rescii.values.PlayerHashMaps;
+import com.rescapi.github.Rescii.values.PlayerHashMaps;
 import org.bukkit.ChatColor;
 import org.bukkit.entity.Player;
 import org.bukkit.event.EventHandler;

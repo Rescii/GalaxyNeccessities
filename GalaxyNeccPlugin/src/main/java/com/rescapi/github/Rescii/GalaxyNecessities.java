@@ -1,6 +1,6 @@
-package com.github.Rescii;
+package com.rescapi.github.Rescii;
 
-import com.github.Rescii.events.MinigameEvents;
+import com.rescapi.github.Rescii.events.MinigameEvents;
 import org.bukkit.Bukkit;
 import org.bukkit.plugin.java.JavaPlugin;
 

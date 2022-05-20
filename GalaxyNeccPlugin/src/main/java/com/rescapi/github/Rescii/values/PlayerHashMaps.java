@@ -1,4 +1,4 @@
-package com.github.Rescii.values;
+package com.rescapi.github.Rescii.values;
 
 import org.bukkit.entity.Player;
 
