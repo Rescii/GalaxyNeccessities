@@ -1,3 +1,5 @@
+com\rescapi\github\Rescii\commands\ReportIssue.class
+com\rescapi\github\Rescii\events\NormalEvents.class
 com\rescapi\github\Rescii\events\MinigameEvents.class
 com\rescapi\github\Rescii\values\PlayerHashMaps.class
 com\rescapi\github\Rescii\GalaxyNecessities.class
