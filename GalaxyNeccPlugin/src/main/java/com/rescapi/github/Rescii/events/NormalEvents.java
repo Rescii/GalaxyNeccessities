@@ -15,7 +15,7 @@ public class NormalEvents implements Listener {
         player.sendMessage(ChatColor.BLUE +"PvP Mechanics "+ChatColor.RESET+"| "+ChatColor.GREEN+"V 1.0.0"+ChatColor.RESET+" | GLHF!");
         player.sendMessage("\n");
         player.sendMessage(ChatColor.YELLOW + "Twitter: " + ChatColor.RESET + "https://twitter.com/PvpMechanics");
-        player.sendMessage(ChatColor.YELLOW + "Issues: " + ChatColor.RESET + "");
+        player.sendMessage(ChatColor.YELLOW + "Issues: " + ChatColor.RESET + "https://github.com/Rescii/IssueTracker/issues");
     }
 
 }
