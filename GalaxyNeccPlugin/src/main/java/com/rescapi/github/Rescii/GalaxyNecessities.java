@@ -1,5 +1,6 @@
 package com.rescapi.github.Rescii;
 
+import com.rescapi.github.Rescii.commands.ReportIssue;
 import com.rescapi.github.Rescii.events.MinigameEvents;
 import com.rescapi.github.Rescii.events.NormalEvents;
 import org.bukkit.Bukkit;
@@ -13,6 +14,8 @@ public class GalaxyNecessities extends JavaPlugin {
 
         getServer().getPluginManager().registerEvents(new MinigameEvents(), this);
         getServer().getPluginManager().registerEvents(new NormalEvents(), this);
+
+        this.getCommand("ReportIssue").setExecutor(new ReportIssue());
 
         Bukkit.getLogger().info("Necessities event registering finished.");
     }
